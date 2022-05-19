@@ -1,0 +1,17 @@
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\bin\Debug\net6.0\Business Logic  Layer.deps.json
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\bin\Debug\net6.0\Business Logic  Layer.runtimeconfig.json
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\bin\Debug\net6.0\Business Logic  Layer.dll
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\bin\Debug\net6.0\Business Logic  Layer.pdb
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\bin\Debug\net6.0\Data BaseLayer.dll
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\bin\Debug\net6.0\Data BaseLayer.pdb
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\Business Logic  Layer.csproj.AssemblyReference.cache
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\Business Logic  Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\Business Logic  Layer.AssemblyInfoInputs.cache
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\Business Logic  Layer.AssemblyInfo.cs
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\Business Logic  Layer.csproj.CoreCompileInputs.cache
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\Business Logic  Layer.csproj.CopyComplete
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\Business Logic  Layer.dll
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\refint\Business Logic  Layer.dll
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\Business Logic  Layer.pdb
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\Business Logic  Layer.genruntimeconfig.cache
+C:\Users\Anil Kumar\source\repos\3layer\Business Logic  Layer\obj\Debug\net6.0\ref\Business Logic  Layer.dll
